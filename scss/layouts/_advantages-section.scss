@@ -1,0 +1,22 @@
+.advantages-section {
+  background-color: var(--color-brand-normal);
+  padding: 16px 0px;
+
+  &__list {
+    justify-content: space-evenly;
+    gap: 40px;
+    display: flex;
+  }
+  
+  &__item {
+    color: var(--color-primary-light);
+    font-weight: 20px;
+    font-weight: 300;
+  }
+}
+
+
+
+
+
+
